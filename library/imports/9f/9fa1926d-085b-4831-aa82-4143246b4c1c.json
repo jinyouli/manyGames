@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienBlue_walk2",
+    "texture": "6bb69db9-6d79-4048-a013-2265d7725b18",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

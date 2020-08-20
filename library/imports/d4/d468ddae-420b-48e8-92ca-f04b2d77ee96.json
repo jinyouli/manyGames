@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "castleLedgeRight",
+    "texture": "e5151d92-545c-4784-95d6-574e0de4e249",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      5,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      5,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

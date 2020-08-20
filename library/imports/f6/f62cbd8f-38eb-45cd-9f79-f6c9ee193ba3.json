@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dirtLedgeLeft",
+    "texture": "f16ec00b-5a9c-4d2a-8823-0516e49abb9c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      5,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      5,
+      18
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

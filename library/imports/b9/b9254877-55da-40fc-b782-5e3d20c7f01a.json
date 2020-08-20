@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sandHalfMid",
+    "texture": "d6bdb9ee-85cc-4789-aa7c-5d1308568a01",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      41
+    ],
+    "offset": [
+      0,
+      14.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

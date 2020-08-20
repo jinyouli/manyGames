@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flagGreenHanging",
+    "texture": "5d4561b3-0412-4f0e-8146-7a2151d3fb6b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      26,
+      70
+    ],
+    "offset": [
+      -22,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

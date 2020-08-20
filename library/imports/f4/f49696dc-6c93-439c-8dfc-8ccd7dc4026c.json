@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flagRed",
+    "texture": "0fcc29f2-9be7-419e-abc1-87dac474f65f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      70
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

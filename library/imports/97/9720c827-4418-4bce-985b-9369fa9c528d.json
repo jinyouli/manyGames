@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "door_closedTop",
+    "texture": "eb01ed88-315e-4a15-a7fe-02857dbf0b8e",
+    "atlas": "",
+    "rect": [
+      0,
+      30,
+      70,
+      40
+    ],
+    "offset": [
+      0,
+      -15
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mushroomBrown",
+    "texture": "d25de3be-f2d5-48f5-94a0-0a2b74421ff6",
+    "atlas": "",
+    "rect": [
+      15,
+      40,
+      40,
+      30
+    ],
+    "offset": [
+      0,
+      -20
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

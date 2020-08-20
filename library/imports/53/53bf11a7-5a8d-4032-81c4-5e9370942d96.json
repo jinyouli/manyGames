@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cardOutline_spades5",
+    "texture": "c5c959fb-7f62-4b08-902b-568f433ab841",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      171
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      171
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

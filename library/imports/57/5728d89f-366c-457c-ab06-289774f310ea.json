@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cardOutline_diamond9",
+    "texture": "0e8e1b21-e1da-4782-9134-c3873e61c74d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      171
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      171
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

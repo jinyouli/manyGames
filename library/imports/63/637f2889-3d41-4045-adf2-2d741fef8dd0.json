@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stemVine",
+    "texture": "91a605c1-5970-49d8-a634-1de780a0dd7d",
+    "atlas": "",
+    "rect": [
+      17,
+      0,
+      40,
+      70
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

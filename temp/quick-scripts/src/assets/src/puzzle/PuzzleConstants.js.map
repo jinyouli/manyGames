@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\src\\puzzle\\PuzzleConstants.ts"],"names":[],"mappings":";;;;;;AAAA,IAAY,KAKX;AALD,WAAY,KAAK;IACb,iCAAQ,CAAA;IACR,mCAAS,CAAA;IACT,mCAAS,CAAA;IACT,iCAAQ,CAAA;AACZ,CAAC,EALW,KAAK,GAAL,aAAK,KAAL,aAAK,QAKhB","file":"","sourceRoot":"/","sourcesContent":["export enum STATE{\n    NONE = 0,\n    READY = 1,\n    START = 2,\n    OVER = 3\n}"]}

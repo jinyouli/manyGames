@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bat_hang",
+    "texture": "fdec9322-182d-433c-aaf9-cadc1e6d8fe7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

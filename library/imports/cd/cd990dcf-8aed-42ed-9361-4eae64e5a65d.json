@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tundraHalfRight",
+    "texture": "dbebc81a-87d5-4c50-9383-f0e4f0ba6cec",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      41
+    ],
+    "offset": [
+      0,
+      14.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

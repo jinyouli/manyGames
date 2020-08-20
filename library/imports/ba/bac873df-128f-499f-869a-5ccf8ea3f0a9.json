@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lineLight40",
+    "texture": "6f75b559-d240-41be-9279-37e443201ae6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

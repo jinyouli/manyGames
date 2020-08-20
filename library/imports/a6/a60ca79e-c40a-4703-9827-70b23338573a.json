@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "alienYellow",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "<TextureAtlas imagePath=\"sheet.png\">\n\t<SubTexture name=\"alienYellow.png\" x=\"69\" y=\"255\" width=\"66\" height=\"82\"/>\n\t<SubTexture name=\"alienYellow_climb1.png\" x=\"69\" y=\"173\" width=\"66\" height=\"82\"/>\n\t<SubTexture name=\"alienYellow_climb2.png\" x=\"70\" y=\"0\" width=\"66\" height=\"82\"/>\n\t<SubTexture name=\"alienYellow_duck.png\" x=\"0\" y=\"422\" width=\"68\" height=\"67\"/>\n\t<SubTexture name=\"alienYellow_hurt.png\" x=\"0\" y=\"258\" width=\"69\" height=\"81\"/>\n\t<SubTexture name=\"alienYellow_jump.png\" x=\"68\" y=\"339\" width=\"67\" height=\"83\"/>\n\t<SubTexture name=\"alienYellow_stand.png\" x=\"68\" y=\"422\" width=\"66\" height=\"82\"/>\n\t<SubTexture name=\"alienYellow_swim1.png\" x=\"0\" y=\"173\" width=\"69\" height=\"85\"/>\n\t<SubTexture name=\"alienYellow_swim2.png\" x=\"0\" y=\"86\" width=\"70\" height=\"87\"/>\n\t<SubTexture name=\"alienYellow_walk1.png\" x=\"0\" y=\"339\" width=\"68\" height=\"83\"/>\n\t<SubTexture name=\"alienYellow_walk2.png\" x=\"0\" y=\"0\" width=\"70\" height=\"86\"/>\n</TextureAtlas>"
+}

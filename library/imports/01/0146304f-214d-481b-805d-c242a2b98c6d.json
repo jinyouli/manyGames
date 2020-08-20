@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cakeHalfLeft",
+    "texture": "6aabf8d4-3e85-42be-81e9-ff85235a0dbf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      41
+    ],
+    "offset": [
+      0,
+      14.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

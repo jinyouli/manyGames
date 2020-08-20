@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stemBaseAlt",
+    "texture": "983a7d2b-37ab-42ab-949a-99e11e2e76f0",
+    "atlas": "",
+    "rect": [
+      7,
+      0,
+      57,
+      70
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

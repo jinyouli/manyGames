@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mouse_dead",
+    "texture": "bbde4551-6475-4e02-acec-7facbc6a6e86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

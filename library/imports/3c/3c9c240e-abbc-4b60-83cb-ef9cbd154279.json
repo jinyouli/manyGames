@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spade_3",
+    "texture": "f1db6d61-dee4-4891-8120-29bfbee2a3d7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      132,
+      186
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      186
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

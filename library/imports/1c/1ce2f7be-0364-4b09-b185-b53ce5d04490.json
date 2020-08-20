@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snowGroundRight",
+    "texture": "93caa85e-569a-416c-8635-208cf2052a50",
+    "atlas": "",
+    "rect": [
+      0,
+      22,
+      70,
+      48
+    ],
+    "offset": [
+      0,
+      -11
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\src\\tetris\\TetrisConstants.ts"],"names":[],"mappings":";;;;;;AAAA,IAAY,KAIX;AAJD,WAAY,KAAK;IACb,iCAAQ,CAAA;IACR,mCAAS,CAAA;IACT,iCAAQ,CAAA;AACZ,CAAC,EAJW,KAAK,GAAL,aAAK,KAAL,aAAK,QAIhB","file":"","sourceRoot":"/","sourcesContent":["export enum STATE{\n    NONE = 0,\n    START = 1,\n    OVER = 2\n}"]}

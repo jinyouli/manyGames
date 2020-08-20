@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tinyShroom_red",
+    "texture": "afe816d1-ac43-44eb-a531-0a570d8e1423",
+    "atlas": "",
+    "rect": [
+      14,
+      40,
+      39,
+      30
+    ],
+    "offset": [
+      -1.5,
+      -20
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

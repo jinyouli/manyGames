@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "windowLowLeadlight",
+    "texture": "74c1e26f-6bc6-49e4-aa17-e7bb289a9e63",
+    "atlas": "",
+    "rect": [
+      4,
+      10,
+      61,
+      60
+    ],
+    "offset": [
+      -0.5,
+      -5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

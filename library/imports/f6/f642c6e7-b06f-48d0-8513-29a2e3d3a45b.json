@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snake_hit",
+    "texture": "11339a04-dbe1-418a-8760-f7dadf2af115",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

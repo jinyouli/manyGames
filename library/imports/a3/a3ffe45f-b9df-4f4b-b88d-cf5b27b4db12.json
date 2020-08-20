@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wireHook",
+    "texture": "ebfd5ecf-a01b-4f44-a529-55f5d0ff9ef9",
+    "atlas": "",
+    "rect": [
+      23,
+      52,
+      24,
+      18
+    ],
+    "offset": [
+      0,
+      -26
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

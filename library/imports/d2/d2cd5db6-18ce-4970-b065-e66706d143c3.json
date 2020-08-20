@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lollipopBaseBrown",
+    "texture": "629cce5b-9a80-42e5-9d79-c09ec2a81688",
+    "atlas": "",
+    "rect": [
+      31,
+      0,
+      8,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

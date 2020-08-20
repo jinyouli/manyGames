@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "windowHighOpenBottom",
+    "texture": "0a7956d6-7fad-495b-95b4-b41f59c80468",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      61,
+      70
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

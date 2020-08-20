@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "candyBlue",
+    "texture": "2da847f4-d06d-49b6-998a-26d762711faa",
+    "atlas": "",
+    "rect": [
+      10,
+      34,
+      50,
+      36
+    ],
+    "offset": [
+      0,
+      -17
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

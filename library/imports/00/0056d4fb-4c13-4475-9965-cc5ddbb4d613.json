@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cardOutline_heart10",
+    "texture": "bae8b639-4278-4621-b44f-0e74d18ae117",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      171
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      171
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

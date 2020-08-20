@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pokerMad",
+    "texture": "ad413ab7-39fb-4903-bfef-9a484ca256bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      48,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

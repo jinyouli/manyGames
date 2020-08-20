@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "windowLowCheckered",
+    "texture": "2922ebe1-3213-44de-ba77-7f820eca88a7",
+    "atlas": "",
+    "rect": [
+      4,
+      10,
+      61,
+      60
+    ],
+    "offset": [
+      -0.5,
+      -5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

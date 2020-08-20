@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cardOutline_clubsK",
+    "texture": "94256ed6-0756-43e3-bae4-b28f2192f478",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      171
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      171
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

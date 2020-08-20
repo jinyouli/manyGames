@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "candyRed",
+    "texture": "19a1b889-117c-466b-9702-27cbddaf4693",
+    "atlas": "",
+    "rect": [
+      10,
+      34,
+      50,
+      36
+    ],
+    "offset": [
+      0,
+      -17
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

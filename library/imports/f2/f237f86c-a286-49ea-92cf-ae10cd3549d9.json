@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tundraLedgeLeft",
+    "texture": "03f3b9f3-d1da-4026-a358-c728ca25ec12",
+    "atlas": "",
+    "rect": [
+      65,
+      0,
+      5,
+      18
+    ],
+    "offset": [
+      32.5,
+      26
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

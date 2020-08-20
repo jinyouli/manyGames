@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hill_smallAlt",
+    "texture": "85ed202a-5097-4753-b21a-cc36ff3966ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      48,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

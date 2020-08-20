@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slimeGreen_squashed",
+    "texture": "ad39e1f8-43d0-4fcf-be18-8ea4fbb983b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      13
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

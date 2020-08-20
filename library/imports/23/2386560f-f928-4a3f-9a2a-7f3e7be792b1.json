@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cakeLedgeRight",
+    "texture": "243c86be-0a9b-41ec-9b4d-2becfad613b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      18
+    ],
+    "offset": [
+      0,
+      26
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

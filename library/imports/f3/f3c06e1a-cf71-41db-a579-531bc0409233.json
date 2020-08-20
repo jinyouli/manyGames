@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ladyBug_fly",
+    "texture": "4af58397-a2e3-4c03-9a4c-e92816ae4701",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gummyWormRedEnd",
+    "texture": "fccaf154-1427-433f-81ba-c5688e98dbb9",
+    "atlas": "",
+    "rect": [
+      50,
+      23,
+      20,
+      47
+    ],
+    "offset": [
+      25,
+      -11.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

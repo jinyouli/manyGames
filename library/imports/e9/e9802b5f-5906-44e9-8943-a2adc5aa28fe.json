@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anemometer",
+    "texture": "1be7f5b9-81f5-484f-bf6d-28209d52ffd4",
+    "atlas": "",
+    "rect": [
+      16,
+      20,
+      38,
+      50
+    ],
+    "offset": [
+      0,
+      -10
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

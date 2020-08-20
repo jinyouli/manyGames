@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flatLight08",
+    "texture": "797b45df-2406-4340-9e65-1b37139b6233",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

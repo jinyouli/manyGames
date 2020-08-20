@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spinnerHalf_spin",
+    "texture": "5d184c05-5d5c-4059-8087-98aadd3fac66",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienPink_climb2",
+    "texture": "85a59b2a-a03c-4aa1-9718-fe2e3a022f23",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

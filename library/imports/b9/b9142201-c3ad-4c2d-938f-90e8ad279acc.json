@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plantPurple",
+    "texture": "cfb87071-bbc6-4add-9a64-b8b3b1c47fc0",
+    "atlas": "",
+    "rect": [
+      8,
+      43,
+      54,
+      27
+    ],
+    "offset": [
+      0,
+      -21.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

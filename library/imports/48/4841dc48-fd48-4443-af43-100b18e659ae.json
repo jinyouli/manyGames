@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shieldBronze",
+    "texture": "ae063803-5a16-4e8e-80be-aa0cc3c7c6af",
+    "atlas": "",
+    "rect": [
+      17,
+      10,
+      36,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

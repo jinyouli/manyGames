@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonGreen_pressed",
+    "texture": "763cacbc-087a-4130-8133-138c3b66f85c",
+    "atlas": "",
+    "rect": [
+      0,
+      44,
+      70,
+      26
+    ],
+    "offset": [
+      0,
+      -22
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

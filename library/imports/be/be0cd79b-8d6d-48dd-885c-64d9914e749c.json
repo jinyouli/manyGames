@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snowHill",
+    "texture": "8909166c-8008-4ddd-93b3-a6a696ca59c2",
+    "atlas": "",
+    "rect": [
+      0,
+      54,
+      70,
+      16
+    ],
+    "offset": [
+      0,
+      -27
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

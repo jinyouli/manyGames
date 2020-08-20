@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spider_walk1",
+    "texture": "b21c91ae-62c8-481e-b112-acc268143538",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

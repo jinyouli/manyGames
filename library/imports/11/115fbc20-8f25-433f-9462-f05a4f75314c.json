@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flatLight42",
+    "texture": "c5d5b167-5f3f-4e10-9c7e-f745b5dcc32e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

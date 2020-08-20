@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sideChip_purple",
+    "texture": "ad871221-8838-4b9c-8f32-bd2e3a085d71",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

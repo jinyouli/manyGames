@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "windowHighMid",
+    "texture": "ee9a70d5-6ef6-496e-b667-a4a6695a1ebd",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      61,
+      70
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "transparentDark08",
+    "texture": "6f1eede3-7e7e-4e7a-8299-032f62c08fe6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

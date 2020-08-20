@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "p3_spritesheet",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "p3_duck = 365 98 69 71\np3_front = 0 196 66 92\np3_hurt = 438 0 69 92\np3_jump = 438 93 67 94\np3_stand = 67 196 66 92\np3_walk01 = 0 0 72 97\np3_walk02 = 73 0 72 97\np3_walk03 = 146 0 72 97\np3_walk04 = 0 98 72 97\np3_walk05 = 73 98 72 97\np3_walk06 = 146 98 72 97\np3_walk07 = 219 0 72 97\np3_walk08 = 292 0 72 97\np3_walk09 = 219 98 72 97\np3_walk10 = 365 0 72 97\np3_walk11 = 292 98 72 97\n"
+}

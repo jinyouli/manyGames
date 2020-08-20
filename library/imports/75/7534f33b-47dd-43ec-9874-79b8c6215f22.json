@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pokerSad",
+    "texture": "4b7038e0-71bb-471b-a707-f2a56214e969",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      48,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

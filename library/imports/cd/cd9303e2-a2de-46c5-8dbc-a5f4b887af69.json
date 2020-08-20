@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flatDark43",
+    "texture": "3d296bce-cdb9-4e7b-a97e-1199c77c04f6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

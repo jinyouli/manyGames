@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chip_bigBlind",
+    "texture": "5be47569-6517-45f6-9b66-df78c28aa3b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

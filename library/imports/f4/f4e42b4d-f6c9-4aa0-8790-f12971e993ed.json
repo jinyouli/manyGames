@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signHangingCoin",
+    "texture": "61e2ec78-7916-4b87-9692-c3b25b385650",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      63
+    ],
+    "offset": [
+      0,
+      3.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

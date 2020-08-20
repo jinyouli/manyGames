@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caneRedSmall",
+    "texture": "97cf2298-56fb-4804-a55b-9fad248dfb08",
+    "atlas": "",
+    "rect": [
+      0,
+      11,
+      70,
+      59
+    ],
+    "offset": [
+      0,
+      -5.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

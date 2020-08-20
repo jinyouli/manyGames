@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "liquidWaterTop",
+    "texture": "57cd942e-671b-40bc-99d1-238777eb61be",
+    "atlas": "",
+    "rect": [
+      0,
+      25,
+      70,
+      45
+    ],
+    "offset": [
+      0,
+      -12.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

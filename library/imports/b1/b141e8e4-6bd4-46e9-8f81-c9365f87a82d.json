@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "doorOpenTop",
+    "texture": "af906d1d-156f-4222-9164-33d6f5094e29",
+    "atlas": "",
+    "rect": [
+      0,
+      30,
+      70,
+      40
+    ],
+    "offset": [
+      0,
+      -15
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "particleBrick1a",
+    "texture": "854cabed-c2c1-4111-bbc3-73f2ce20d81c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      19,
+      14
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      19,
+      14
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laserSwitchRedOn",
+    "texture": "0c6542ad-fa33-494a-b7dc-e89b8d2e3baf",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      66,
+      70
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

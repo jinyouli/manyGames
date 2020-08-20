@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aliens",
+    "texture": "843544fb-3256-484b-9e45-fb3858e71fb1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      742,
+      495
+    ],
+    "offset": [
+      -141,
+      8.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

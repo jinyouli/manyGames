@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iceWater",
+    "texture": "17428499-9e2c-45ee-bf0d-8106849c9347",
+    "atlas": "",
+    "rect": [
+      0,
+      25,
+      70,
+      45
+    ],
+    "offset": [
+      0,
+      -12.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

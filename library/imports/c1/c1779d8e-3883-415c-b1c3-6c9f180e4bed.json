@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "everyplay_video_icon_like_active",
+    "texture": "3b9f6a38-92d2-4c48-bbdf-9da7688b3ba8",
+    "atlas": "",
+    "rect": [
+      22,
+      27,
+      42,
+      38
+    ],
+    "offset": [
+      -1,
+      -2
+    ],
+    "originalSize": [
+      88,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

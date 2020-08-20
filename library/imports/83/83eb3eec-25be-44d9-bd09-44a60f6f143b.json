@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stoneCaveRockSmall",
+    "texture": "abecd6f0-db0c-477a-82cb-10902ebd059b",
+    "atlas": "",
+    "rect": [
+      20,
+      20,
+      29,
+      31
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

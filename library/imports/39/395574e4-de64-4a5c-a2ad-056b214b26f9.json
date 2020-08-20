@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienBeige_climb2",
+    "texture": "5c160b49-b0a3-429c-bcca-4b55cecf2be8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

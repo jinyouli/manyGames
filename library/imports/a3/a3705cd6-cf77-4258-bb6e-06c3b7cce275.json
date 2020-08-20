@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienYellow_jump",
+    "texture": "3c03493d-c1a9-4c1d-a345-8922fac0c54d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

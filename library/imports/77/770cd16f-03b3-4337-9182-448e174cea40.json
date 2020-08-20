@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creamChoco",
+    "texture": "abbb7963-0b53-4935-8460-3663e2aa3dff",
+    "atlas": "",
+    "rect": [
+      0,
+      15,
+      70,
+      55
+    ],
+    "offset": [
+      0,
+      -7.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

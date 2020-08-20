@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flagBlueHanging",
+    "texture": "f114ca73-1cc5-46f2-9c00-4d38f21eeb1c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      26,
+      70
+    ],
+    "offset": [
+      -22,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snakeSlime_ani",
+    "texture": "668ab916-7b8b-4def-901f-4292d26d9b1a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      147
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      147
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

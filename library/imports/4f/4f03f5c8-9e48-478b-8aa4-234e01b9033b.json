@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonRed_pressed",
+    "texture": "c14c36e9-acc2-4edf-b813-16a49dc9b3d9",
+    "atlas": "",
+    "rect": [
+      0,
+      44,
+      70,
+      26
+    ],
+    "offset": [
+      0,
+      -22
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

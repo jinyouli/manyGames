@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "metalPlatformWire",
+    "texture": "bc8da6ea-45e4-4085-8eb4-808cec389694",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      30
+    ],
+    "offset": [
+      0,
+      20
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "treeTrunkBottomAlt",
+    "texture": "e3f2971f-9a26-4dd4-8041-25f54a6e6504",
+    "atlas": "",
+    "rect": [
+      10,
+      0,
+      50,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lineLight08",
+    "texture": "e16da423-b8d4-4757-b3be-03e632d8cd0d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

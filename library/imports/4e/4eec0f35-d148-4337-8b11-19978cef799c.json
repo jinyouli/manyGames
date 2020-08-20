@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "doorTop",
+    "texture": "fceaa1fa-5a9b-4d9e-9fe7-10726dac6c06",
+    "atlas": "",
+    "rect": [
+      0,
+      30,
+      70,
+      40
+    ],
+    "offset": [
+      0,
+      -15
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

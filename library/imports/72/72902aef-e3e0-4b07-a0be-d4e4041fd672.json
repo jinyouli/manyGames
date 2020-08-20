@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "worm_dead",
+    "texture": "e84f4f42-8b68-4399-92b8-b72b681db181",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

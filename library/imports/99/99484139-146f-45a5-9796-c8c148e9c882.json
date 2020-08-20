@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stemBase",
+    "texture": "5afaee3b-9d23-4d79-a453-71589c10df29",
+    "atlas": "",
+    "rect": [
+      11,
+      0,
+      49,
+      70
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

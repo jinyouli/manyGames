@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienYellow_walk2",
+    "texture": "97e3f693-fe0e-4acb-977b-8fc58128a304",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

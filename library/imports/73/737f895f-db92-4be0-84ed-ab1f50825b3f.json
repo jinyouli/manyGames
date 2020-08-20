@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rockAlt",
+    "texture": "f3262ffe-a288-4548-8791-efe005a0f413",
+    "atlas": "",
+    "rect": [
+      8,
+      21,
+      57,
+      49
+    ],
+    "offset": [
+      1.5,
+      -10.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

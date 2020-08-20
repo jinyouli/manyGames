@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\src\\reversi\\ReversiConstants.ts"],"names":[],"mappings":";;;;;;AAAa,QAAA,IAAI,GAAG,CAAC,CAAC;AACT,QAAA,KAAK,GAAG,CAAC,CAAC;AACV,QAAA,KAAK,GAAG,CAAC,CAAC,CAAC","file":"","sourceRoot":"/","sourcesContent":["export const NONE = 0;\nexport const BLACK = 1;\nexport const WHITE = -1;"]}

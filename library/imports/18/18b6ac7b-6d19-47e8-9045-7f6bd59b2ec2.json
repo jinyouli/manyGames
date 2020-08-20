@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "keyRed",
+    "texture": "45a3b4e9-5c3c-4941-9fe4-10034032ce0f",
+    "atlas": "",
+    "rect": [
+      5,
+      14,
+      60,
+      36
+    ],
+    "offset": [
+      0,
+      3
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

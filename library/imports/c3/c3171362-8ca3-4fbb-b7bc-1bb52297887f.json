@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slimeBlue_blue",
+    "texture": "61099d80-9ee2-4483-b510-81b8a6a130bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

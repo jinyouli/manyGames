@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "metalPlatform",
+    "texture": "8b613c05-e180-454a-b5f4-55ecf02154bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      18
+    ],
+    "offset": [
+      0,
+      26
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

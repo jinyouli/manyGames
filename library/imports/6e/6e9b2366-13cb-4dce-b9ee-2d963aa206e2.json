@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "springboardDown",
+    "texture": "3c8de2cd-74b7-4483-b004-35fb37982c9b",
+    "atlas": "",
+    "rect": [
+      0,
+      34,
+      70,
+      36
+    ],
+    "offset": [
+      0,
+      -17
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

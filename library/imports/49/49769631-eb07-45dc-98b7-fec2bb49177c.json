@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienBeige_walk1",
+    "texture": "d9de173e-078c-4e67-bc71-c16b239cd5c9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

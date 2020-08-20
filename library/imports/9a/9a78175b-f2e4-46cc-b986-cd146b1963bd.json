@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ladyBug_hit",
+    "texture": "88aae0c6-60fe-475a-91f5-31b82fabf623",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      58,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

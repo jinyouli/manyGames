@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hud_gem_yellow",
+    "texture": "4f2a9294-5226-41eb-ba3b-8193c5f0b780",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

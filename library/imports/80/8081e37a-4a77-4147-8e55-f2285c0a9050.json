@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sideChip_dealer",
+    "texture": "986a921c-7fa9-4f32-955a-8f377319de94",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      122,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

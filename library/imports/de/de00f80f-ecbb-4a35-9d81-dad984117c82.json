@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chocoLedgeLeft",
+    "texture": "fbedeed5-30cb-4158-a346-ba03487ca19a",
+    "atlas": "",
+    "rect": [
+      65,
+      0,
+      5,
+      24
+    ],
+    "offset": [
+      32.5,
+      23
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

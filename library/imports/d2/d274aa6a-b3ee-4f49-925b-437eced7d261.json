@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tochLit2",
+    "texture": "4867cfc0-18c6-493c-a7c0-c784c49a753b",
+    "atlas": "",
+    "rect": [
+      20,
+      1,
+      28,
+      67
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

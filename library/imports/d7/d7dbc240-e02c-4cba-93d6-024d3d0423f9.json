@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tallShroom_brown",
+    "texture": "1619503d-44b4-4137-b692-394f8e60ce44",
+    "atlas": "",
+    "rect": [
+      12,
+      29,
+      44,
+      41
+    ],
+    "offset": [
+      -1,
+      -14.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sideChip_orange",
+    "texture": "b7e81584-6a28-4a70-bb1f-5255cc29c349",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

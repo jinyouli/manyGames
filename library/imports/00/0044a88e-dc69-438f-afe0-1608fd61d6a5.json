@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "windowHighCheckeredTop",
+    "texture": "44458c20-3ba3-4499-8475-5b5d7aef6a05",
+    "atlas": "",
+    "rect": [
+      4,
+      37,
+      61,
+      33
+    ],
+    "offset": [
+      -0.5,
+      -18.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

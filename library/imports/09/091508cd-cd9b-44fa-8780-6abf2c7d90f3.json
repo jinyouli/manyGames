@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laserUpShoot",
+    "texture": "c062e3c6-8c1a-4c1e-8ec7-cbfe1d798020",
+    "atlas": "",
+    "rect": [
+      10,
+      5,
+      50,
+      65
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

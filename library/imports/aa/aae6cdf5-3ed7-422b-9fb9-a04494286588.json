@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fenceLong",
+    "texture": "625f8364-56e3-4b06-88c1-8c9c5cc562be",
+    "atlas": "",
+    "rect": [
+      0,
+      19,
+      70,
+      51
+    ],
+    "offset": [
+      0,
+      -9.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

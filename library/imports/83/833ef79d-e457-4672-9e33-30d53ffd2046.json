@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "windowHighLeadlightTop",
+    "texture": "6373b838-9a3c-476c-b96c-7ab6c941b719",
+    "atlas": "",
+    "rect": [
+      4,
+      37,
+      61,
+      33
+    ],
+    "offset": [
+      -0.5,
+      -18.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "transparentLight04",
+    "texture": "41a15e28-353b-4427-9b1e-f063e9b63172",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

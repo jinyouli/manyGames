@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fishPink_hit",
+    "texture": "fb3681dc-f727-40c4-96b4-d8a7b0a20991",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

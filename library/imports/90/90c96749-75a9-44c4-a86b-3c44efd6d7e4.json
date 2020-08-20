@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iceWaterMid",
+    "texture": "5efa4ef9-316e-46d5-ac3f-fa1f9b526d50",
+    "atlas": "",
+    "rect": [
+      0,
+      25,
+      70,
+      45
+    ],
+    "offset": [
+      0,
+      -12.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

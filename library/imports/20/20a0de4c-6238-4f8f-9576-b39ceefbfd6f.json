@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "worm_hit",
+    "texture": "66e24576-39c0-4c38-b8b4-6ff41d28db83",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

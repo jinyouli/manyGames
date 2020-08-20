@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shadedDark02",
+    "texture": "6fdd9436-4e49-4f8b-a5b0-2eb3febc10d2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "liquidLavaTop",
+    "texture": "2a3208e7-dd4d-4914-8601-086a49cb272f",
+    "atlas": "",
+    "rect": [
+      0,
+      25,
+      70,
+      45
+    ],
+    "offset": [
+      0,
+      -12.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

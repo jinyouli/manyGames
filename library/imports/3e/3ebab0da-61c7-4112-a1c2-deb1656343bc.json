@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slimeDead",
+    "texture": "2074968e-babc-40fd-9f68-0ea513701a7d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      12
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      12
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

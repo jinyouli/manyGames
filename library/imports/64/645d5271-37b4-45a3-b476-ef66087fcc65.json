@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laserSwitchBlueOn",
+    "texture": "c56e6cbb-7fb1-4300-ab6f-0d9a1e4dcd0c",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      66,
+      70
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

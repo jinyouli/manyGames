@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienPink",
+    "texture": "00699da0-b6f2-4c47-a9e1-1ee20d023a96",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      201,
+      471
+    ],
+    "offset": [
+      -27.5,
+      20.5
+    ],
+    "originalSize": [
+      256,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

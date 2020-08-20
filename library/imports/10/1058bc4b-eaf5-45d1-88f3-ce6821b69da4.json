@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lollipopBaseCake",
+    "texture": "ea6c4ead-8038-45f6-8418-fd9a624d0af0",
+    "atlas": "",
+    "rect": [
+      10,
+      0,
+      50,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

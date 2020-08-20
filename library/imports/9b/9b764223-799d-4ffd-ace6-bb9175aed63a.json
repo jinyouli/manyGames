@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "waffleWhite",
+    "texture": "5d9eda15-f21e-4c20-85a8-0dc03ecfa605",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      69,
+      70
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

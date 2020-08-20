@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jieyi",
+    "texture": "aa6673ec-bfa6-4554-934b-63fdbbd3e537",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      591,
+      591
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      591,
+      591
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

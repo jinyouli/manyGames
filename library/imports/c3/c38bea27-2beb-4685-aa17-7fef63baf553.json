@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signBed",
+    "texture": "7a5cb6b4-d6f3-48e0-902f-675222429bf9",
+    "atlas": "",
+    "rect": [
+      5,
+      6,
+      62,
+      59
+    ],
+    "offset": [
+      1,
+      -0.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

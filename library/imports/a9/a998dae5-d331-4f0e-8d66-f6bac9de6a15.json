@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shadedLight04",
+    "texture": "b40e4db0-4ca7-4d2b-ba6d-803020b1535d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      125,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      125,
+      127
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

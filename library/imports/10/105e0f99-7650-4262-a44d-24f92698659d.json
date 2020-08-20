@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fenceGate",
+    "texture": "ef84fd6a-a0b8-4d10-a9b2-03050b6eb9cf",
+    "atlas": "",
+    "rect": [
+      0,
+      19,
+      70,
+      51
+    ],
+    "offset": [
+      0,
+      -9.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

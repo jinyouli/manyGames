@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienBeige_hurt",
+    "texture": "c1a1ec3a-7383-495b-be9a-baac53b36a8f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

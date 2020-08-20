@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiles_spritesheet",
+    "texture": "ba771770-ca95-4064-8bd0-07a9ef284131",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      912,
+      934
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      914,
+      936
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

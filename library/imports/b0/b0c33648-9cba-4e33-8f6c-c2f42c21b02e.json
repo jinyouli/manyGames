@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roofYellowTopLeft",
+    "texture": "7705f707-f182-4b3c-a8e4-9b5f4635485a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      11,
+      70
+    ],
+    "offset": [
+      -29.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

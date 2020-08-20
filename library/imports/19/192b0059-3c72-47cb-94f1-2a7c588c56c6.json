@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienBeige_duck",
+    "texture": "9d877851-174e-475d-ab4d-40fe36e6489a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

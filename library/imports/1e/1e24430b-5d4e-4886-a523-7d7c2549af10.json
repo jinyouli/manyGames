@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slimeBlue_hit",
+    "texture": "40655df1-af05-4f6c-b7d6-058e04d92051",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      49,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

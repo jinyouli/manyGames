@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laserSwitchYellowOff",
+    "texture": "11707fe0-777e-4846-9a2c-73b1d4bdc501",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      65,
+      69
+    ],
+    "offset": [
+      -1.5,
+      -0.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

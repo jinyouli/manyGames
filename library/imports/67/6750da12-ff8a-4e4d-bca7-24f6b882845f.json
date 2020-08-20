@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frog_dead",
+    "texture": "9fffc615-9961-4893-bd2f-942fa3a688c2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

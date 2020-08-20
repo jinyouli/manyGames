@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "grassLedgeRight",
+    "texture": "04573dda-3783-4c9f-83e0-fa393e3bed74",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      5,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      5,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

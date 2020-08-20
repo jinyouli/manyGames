@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "treeTrunkSplitRight",
+    "texture": "b2bec9e4-f9d0-4709-bd92-096502204a68",
+    "atlas": "",
+    "rect": [
+      19,
+      0,
+      51,
+      70
+    ],
+    "offset": [
+      9.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

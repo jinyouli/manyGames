@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hud_keyBlue",
+    "texture": "fc3ee9f8-3164-4392-a75c-a14d3c73ef42",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

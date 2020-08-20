@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "windowLowOpen",
+    "texture": "0bcff001-088b-4c7b-a4d3-a572721351df",
+    "atlas": "",
+    "rect": [
+      4,
+      10,
+      61,
+      60
+    ],
+    "offset": [
+      -0.5,
+      -5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

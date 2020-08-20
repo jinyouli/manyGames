@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laserYellowBurst",
+    "texture": "3d258d7f-adab-4c4a-bb24-e7a134b8a06d",
+    "atlas": "",
+    "rect": [
+      11,
+      12,
+      50,
+      48
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

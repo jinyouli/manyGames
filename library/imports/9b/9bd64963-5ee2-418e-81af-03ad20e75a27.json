@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hud_keyYellow_disabled",
+    "texture": "a8297dee-c29c-4496-8ee9-abeb15a15773",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

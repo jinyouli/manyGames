@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bridgeLogs",
+    "texture": "fba40ed1-fe5a-49c0-a3b7-e68b31d3ef1c",
+    "atlas": "",
+    "rect": [
+      0,
+      45,
+      70,
+      25
+    ],
+    "offset": [
+      0,
+      -22.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

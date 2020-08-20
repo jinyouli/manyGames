@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fishPink",
+    "texture": "33fc9150-b762-410a-a70a-78352fa38d7c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laserPurple",
+    "texture": "c32df0d4-acde-4d0c-ba19-ff1f125e8635",
+    "atlas": "",
+    "rect": [
+      19,
+      29,
+      34,
+      10
+    ],
+    "offset": [
+      1,
+      1
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

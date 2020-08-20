@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spider_dead",
+    "texture": "9c4813ce-1433-433f-8091-b5d6c0ca743d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

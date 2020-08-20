@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ladyBug_walk",
+    "texture": "76f263a0-8f30-40c6-9488-1a88b64f070e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

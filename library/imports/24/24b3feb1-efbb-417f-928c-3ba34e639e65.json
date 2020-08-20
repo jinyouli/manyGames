@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tundraLedgeRight",
+    "texture": "b68c2d66-defd-4e87-8390-618caa78b744",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      18
+    ],
+    "offset": [
+      0,
+      26
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

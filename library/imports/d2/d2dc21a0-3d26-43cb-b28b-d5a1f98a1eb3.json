@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signHangingBed",
+    "texture": "be341d5f-7000-4587-90d4-a86e1e6f1172",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      63
+    ],
+    "offset": [
+      0,
+      3.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

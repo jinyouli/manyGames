@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roofRedTopRight",
+    "texture": "5fc7f9d6-2abe-4208-8aca-d66f0c0bb612",
+    "atlas": "",
+    "rect": [
+      59,
+      0,
+      11,
+      70
+    ],
+    "offset": [
+      29.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

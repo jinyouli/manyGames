@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "springboardUp",
+    "texture": "0e5e04ef-bef0-495d-ab08-d2bf85ec04a7",
+    "atlas": "",
+    "rect": [
+      0,
+      20,
+      70,
+      50
+    ],
+    "offset": [
+      0,
+      -10
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

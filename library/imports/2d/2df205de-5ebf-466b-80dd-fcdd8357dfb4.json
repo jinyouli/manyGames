@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "funnel",
+    "texture": "21dce88c-6cae-48ee-a2f1-913594416ba5",
+    "atlas": "",
+    "rect": [
+      19,
+      22,
+      469,
+      464
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      508,
+      508
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

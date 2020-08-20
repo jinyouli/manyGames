@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "doorPlateTop",
+    "texture": "5fb215bf-aa09-42f4-96a2-49479a19cbe8",
+    "atlas": "",
+    "rect": [
+      0,
+      30,
+      70,
+      40
+    ],
+    "offset": [
+      0,
+      -15
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

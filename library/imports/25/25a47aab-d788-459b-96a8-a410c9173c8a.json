@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fireball",
+    "texture": "3fe7dd23-c978-4887-8996-3f5bd4dcacfa",
+    "atlas": "",
+    "rect": [
+      23,
+      23,
+      22,
+      24
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

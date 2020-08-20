@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fishGreen_hit",
+    "texture": "ed6eb7ef-9dc8-444c-8043-b4275e372d05",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

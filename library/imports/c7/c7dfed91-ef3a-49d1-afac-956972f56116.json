@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "metalFence",
+    "texture": "ba12f3f3-cdf3-4654-8069-93bb5d46ce6c",
+    "atlas": "",
+    "rect": [
+      0,
+      29,
+      70,
+      41
+    ],
+    "offset": [
+      0,
+      -14.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

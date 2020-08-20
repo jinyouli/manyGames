@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "club_4",
+    "texture": "6873cbd6-564f-4a27-b608-f9240d941565",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      185
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      185
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

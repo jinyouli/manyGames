@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snail_shell",
+    "texture": "5987206a-c204-40f5-a7ef-41f8a7f956e1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "barnacle",
+    "texture": "2bdaac13-65d3-4c9d-8e5d-2096de493ff9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stoneLedgeRight",
+    "texture": "dfb74355-78f0-44a9-b4db-664800f03664",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      5,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      5,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

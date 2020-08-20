@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienPink_swim1",
+    "texture": "732e07fa-377e-4eee-b872-3e4c21eba014",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

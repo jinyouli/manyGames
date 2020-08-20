@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snakeLava_ani",
+    "texture": "762ef6e4-6415-4933-b68d-ea505e1ab3b8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      147
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      147
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

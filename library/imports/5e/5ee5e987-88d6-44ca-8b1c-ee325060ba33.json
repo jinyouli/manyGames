@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chipRed",
+    "texture": "2d1cdca4-bcb8-4f0c-8b60-41be31cec6ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

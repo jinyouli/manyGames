@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ghost_normal",
+    "texture": "ad45586f-5d8a-4a38-8645-6419e91e88e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

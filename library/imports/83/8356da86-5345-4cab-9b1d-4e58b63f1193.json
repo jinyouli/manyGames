@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stoneCaveSpikeBottom",
+    "texture": "f239dad9-3190-4ae1-abb5-80af3cb25baf",
+    "atlas": "",
+    "rect": [
+      12,
+      23,
+      47,
+      47
+    ],
+    "offset": [
+      0.5,
+      -11.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laserRedBurst",
+    "texture": "9b07943a-496b-4953-863b-33ce1fa06c84",
+    "atlas": "",
+    "rect": [
+      11,
+      12,
+      50,
+      48
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

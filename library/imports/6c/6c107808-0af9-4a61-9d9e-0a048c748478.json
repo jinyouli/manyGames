@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "candyYellow",
+    "texture": "b454f46e-c715-45be-a1b2-86209f61d8f1",
+    "atlas": "",
+    "rect": [
+      10,
+      34,
+      50,
+      36
+    ],
+    "offset": [
+      0,
+      -17
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

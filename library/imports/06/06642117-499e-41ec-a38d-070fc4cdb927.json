@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daji",
+    "texture": "77f2aefa-834a-4ea8-860e-4c7cc3dba254",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      734,
+      735
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      734,
+      735
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

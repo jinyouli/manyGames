@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snowLeft",
+    "texture": "40e5c674-4419-4a74-acf7-99e2c7f48cf5",
+    "atlas": "",
+    "rect": [
+      0,
+      62,
+      70,
+      8
+    ],
+    "offset": [
+      0,
+      -31
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

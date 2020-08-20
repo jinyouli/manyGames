@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dirtCaveSpikeBottom",
+    "texture": "662b3798-fdcb-4611-bee3-ba698e1e2b4a",
+    "atlas": "",
+    "rect": [
+      12,
+      23,
+      47,
+      47
+    ],
+    "offset": [
+      0.5,
+      -11.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

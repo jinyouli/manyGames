@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signCup",
+    "texture": "1c1279ca-5bf6-45fa-b4f5-f129b23eead6",
+    "atlas": "",
+    "rect": [
+      5,
+      6,
+      62,
+      59
+    ],
+    "offset": [
+      1,
+      -0.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

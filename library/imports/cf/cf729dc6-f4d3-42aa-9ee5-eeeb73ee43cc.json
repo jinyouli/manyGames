@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spikesTopAlt2",
+    "texture": "3985d75c-de3e-4e95-ba30-60ea847b679f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      28
+    ],
+    "offset": [
+      0,
+      21
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

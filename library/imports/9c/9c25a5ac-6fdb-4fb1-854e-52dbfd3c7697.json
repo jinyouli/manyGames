@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beamBoltsNarrow",
+    "texture": "1a1373b3-2864-4843-b004-841782204ea4",
+    "atlas": "",
+    "rect": [
+      0,
+      10,
+      70,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laserRightShoot",
+    "texture": "53a7c877-fe81-4b06-8951-22ed51e423c4",
+    "atlas": "",
+    "rect": [
+      0,
+      11,
+      65,
+      59
+    ],
+    "offset": [
+      -2.5,
+      -5.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

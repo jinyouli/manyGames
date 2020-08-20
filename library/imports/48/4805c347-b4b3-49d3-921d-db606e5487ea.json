@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creamMocca",
+    "texture": "03d83bcf-f3b4-4b08-9a3d-8bfd86d3ef3f",
+    "atlas": "",
+    "rect": [
+      0,
+      15,
+      70,
+      55
+    ],
+    "offset": [
+      0,
+      -7.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

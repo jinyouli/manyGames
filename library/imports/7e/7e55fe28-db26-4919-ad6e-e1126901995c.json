@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snail_walk",
+    "texture": "bc84afeb-78b4-4692-a40f-b584984c7193",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

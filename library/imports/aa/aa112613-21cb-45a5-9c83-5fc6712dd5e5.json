@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snowRight",
+    "texture": "2cd00f33-9824-4ce0-ab29-56b5d8d68480",
+    "atlas": "",
+    "rect": [
+      0,
+      61,
+      70,
+      9
+    ],
+    "offset": [
+      0,
+      -30.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

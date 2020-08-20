@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shieldGold",
+    "texture": "aff6fcf1-92cb-4f7e-9cf9-e89435ab7efc",
+    "atlas": "",
+    "rect": [
+      17,
+      10,
+      36,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

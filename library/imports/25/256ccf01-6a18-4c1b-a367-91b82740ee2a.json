@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tinyShroom_brown",
+    "texture": "9f62616c-914a-48d6-a524-5fcd021df774",
+    "atlas": "",
+    "rect": [
+      14,
+      40,
+      39,
+      30
+    ],
+    "offset": [
+      -1.5,
+      -20
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

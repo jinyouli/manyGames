@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snake_dead",
+    "texture": "a33a36d3-7382-46ec-b8f9-a7a0498e7954",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

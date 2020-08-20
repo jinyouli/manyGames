@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hud_spritesheet",
+    "texture": "336a263e-d58c-4841-9fe5-ce2defa5ac35",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      267,
+      267
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      269,
+      269
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

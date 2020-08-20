@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laserLeft",
+    "texture": "6eb261e9-c72e-4e13-a934-468e8172ada0",
+    "atlas": "",
+    "rect": [
+      0,
+      11,
+      70,
+      59
+    ],
+    "offset": [
+      0,
+      -5.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

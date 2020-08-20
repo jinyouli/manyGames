@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laserDownShoot",
+    "texture": "18ed6fd5-37fb-4ff8-9adb-fa6f956ab14d",
+    "atlas": "",
+    "rect": [
+      10,
+      0,
+      50,
+      65
+    ],
+    "offset": [
+      0,
+      2.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

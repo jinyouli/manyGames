@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laserRedVertical",
+    "texture": "ca8e991b-59cc-4259-bea0-743a445a3d5a",
+    "atlas": "",
+    "rect": [
+      26,
+      0,
+      18,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

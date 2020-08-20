@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caneGreenSmall",
+    "texture": "7b768c81-a5d3-4055-a597-108745ca21f4",
+    "atlas": "",
+    "rect": [
+      0,
+      11,
+      70,
+      59
+    ],
+    "offset": [
+      0,
+      -5.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

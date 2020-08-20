@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snowWave",
+    "texture": "6ce3db82-7323-4aeb-a86e-02b3a03b9149",
+    "atlas": "",
+    "rect": [
+      0,
+      55,
+      70,
+      15
+    ],
+    "offset": [
+      0,
+      -27.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

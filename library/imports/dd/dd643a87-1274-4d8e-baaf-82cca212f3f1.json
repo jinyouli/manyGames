@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienYellow_climb1",
+    "texture": "a82319a3-f246-40ff-ada6-8c467356ca88",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

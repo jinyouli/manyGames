@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mouse_walk",
+    "texture": "511c2507-4427-4f42-b9fe-99b7058efaf9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      58,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

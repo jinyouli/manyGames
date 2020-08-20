@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "transparentDark01",
+    "texture": "4ca407be-7051-4a48-b492-b4cc843d70d2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

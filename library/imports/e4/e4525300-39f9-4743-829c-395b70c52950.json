@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chimneyLow",
+    "texture": "5747e5f0-13fe-4128-99ca-f58edf136fab",
+    "atlas": "",
+    "rect": [
+      0,
+      27,
+      70,
+      43
+    ],
+    "offset": [
+      0,
+      -13.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

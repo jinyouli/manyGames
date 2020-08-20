@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienBeige_jump",
+    "texture": "219b0ee6-f699-44cd-8b25-28105ddddb51",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

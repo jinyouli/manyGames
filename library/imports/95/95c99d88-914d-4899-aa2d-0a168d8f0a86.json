@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "raygunBig",
+    "texture": "95161977-2182-4640-9f49-ab4fdaf8b9e2",
+    "atlas": "",
+    "rect": [
+      14,
+      24,
+      38,
+      28
+    ],
+    "offset": [
+      -2,
+      -3
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hud_heartFull",
+    "texture": "6658624c-8373-457b-b01f-2d48b143973b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

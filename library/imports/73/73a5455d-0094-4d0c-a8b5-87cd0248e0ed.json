@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "snowBall",
+    "texture": "5d707c37-dda5-4fd6-af92-1f3a611a37b9",
+    "atlas": "",
+    "rect": [
+      21,
+      21,
+      29,
+      30
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

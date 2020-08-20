@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alienPink_jump",
+    "texture": "65c2ba48-1f26-48dd-86d1-0011d579d241",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

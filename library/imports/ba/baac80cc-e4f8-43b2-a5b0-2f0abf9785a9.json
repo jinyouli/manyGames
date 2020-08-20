@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rockMossAlt",
+    "texture": "5f0bed25-5903-4592-9c90-e12fcd163df8",
+    "atlas": "",
+    "rect": [
+      6,
+      21,
+      57,
+      49
+    ],
+    "offset": [
+      -0.5,
+      -10.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

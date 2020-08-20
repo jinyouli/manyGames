@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fall-down",
+    "texture": "76ba98da-80f1-4401-9be7-fa5b975f9d83",
+    "atlas": "",
+    "rect": [
+      83,
+      8,
+      90,
+      240
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

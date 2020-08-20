@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fenceLow",
+    "texture": "54ade796-9c53-4b14-a151-4fcf0752fb0a",
+    "atlas": "",
+    "rect": [
+      0,
+      19,
+      70,
+      51
+    ],
+    "offset": [
+      0,
+      -9.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

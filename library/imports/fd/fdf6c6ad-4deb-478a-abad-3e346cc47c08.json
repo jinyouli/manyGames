@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beamNarrow",
+    "texture": "7e83cb3c-b557-4f0c-a734-6c702b8a298b",
+    "atlas": "",
+    "rect": [
+      0,
+      10,
+      70,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creamPink",
+    "texture": "e8a0dee9-4f85-4c11-91e0-2997aed5dba1",
+    "atlas": "",
+    "rect": [
+      0,
+      15,
+      70,
+      55
+    ],
+    "offset": [
+      0,
+      -7.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

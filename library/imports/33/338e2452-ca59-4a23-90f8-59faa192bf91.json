@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "waffleChoco",
+    "texture": "05418e0c-54b3-4a3e-b4cc-2262bb0702d7",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      69,
+      70
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
